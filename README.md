@@ -1,6 +1,6 @@
 # Software Tester Portfolio
 
-<h1>Hi, I'm Garrick! <br/><a>Aspiring Software Tester/ QA Engineer</a>
+<h1>Hi, I'm Garrick! <br/> <a>Aspiring Software Tester/ QA Engineer</a>
 
 <h2>👨‍💻 QA Projects:</h2>
 
